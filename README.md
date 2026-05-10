@@ -1,0 +1,1 @@
+# Campus-activities-management-system
